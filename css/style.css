@@ -25,3 +25,11 @@
       font-family: Audiowide;
       font-size: 20px;
     }
+    #reloj{
+      font-family: Audiowide;
+      font-size: 50px;
+    }
+    .derecha {
+      display: flex;
+      justify-content: flex-end;
+    }
